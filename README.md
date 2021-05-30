@@ -16,8 +16,8 @@ STL per imprimir (https://github.com/maynej/PerotBot).
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
 Base Microbit |![](Imatges/MicrobitBase.png) | [Base Arduino UNO](STL/MicrobitBaseStemfie.stl)
-Sensor Ultra-Sons |![](Imatges/USAsymmetricSensor.png) | [Simetric](STL/SimetricUltraSoundSensor4_STEMFIE.stl) , [Asimetric](STL/AssimetricUltraSoundSensor4_STEMFIE.stl)
-Suport MotorDC TT |![](Imatges/MotorSupport.png) | [MotorDC TT L1](STL/MotorDCTT_L1_mClonSTEMFIE.stl), [MotorDC TT L2](STL/MotorDCTT_L2_mClonSTEMFIE.stl), [MotorDC TT R1](STL/MotorDCTT_R1_mClonSTEMFIE.stl), [MotorDC TT R2](STL/MotorDCTT_R2_mClonSTEMFIE.stl) 
+Sensor Ultra-Sons |![](Imatges/USAsymmetricSensor.png) | [Simetric](STL/USSymmetricSensor4V_STEMFIE.stl) , [Asimetric](STL/USAsymmetricSensor4V_STEMFIE.stl)
+Suport MotorDC TT |![](Imatges/MotorSupport.png) | [MotorDC TT L1](STL/SuportMotorTTD1.stl), [MotorDC TT L2](STL/SuportMotorTTED1.stl), [MotorDC TT R1](STL/SuportMotorTTX2.stl), [MotorDC TT R2](STL/SuportMotorTTX2.stl)2
 Sensor Línia Sensor |![](Imatges/LineSensor.png) | [Sensor Línia](STL/LineSensor_mClonSTEMFIE.stl)
 Roda 1 o Roda 2 |![](Imatges/Roda1.png) ![](Imatges/Roda2.png) | [Roda 1L](STL/Wheel_1L_PerotBotSTEMFIE.stl), [Roda 1R](STL/Wheel_1R_PerotBotSTEMFIE.stl), [Roda 2L](STL/Wheel_2L_PerotBotSTEMFIE.stl), [Roda 2R](STL/Wheel_2R_PerotBotSTEMFIE.stl)
 Cargol BU02.00 |![](Imatges/BU02.00.png) | [BU02.00](STL/ShoulderScrewRHDRHBU02.00-SPN-SSC-0048.stl)
