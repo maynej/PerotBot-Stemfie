@@ -3,7 +3,7 @@ Micro:bit robot
 
 Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilitat Stemfie, realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
 
-https://github.com/maynej/PerotBot/imatges/PerotBot1.jpg
+https://github.com/maynej/PerotBot/tree/main/Imatges/PerotBot1.jpg
 
 Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) 
 
