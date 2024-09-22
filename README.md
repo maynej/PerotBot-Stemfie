@@ -1,4 +1,4 @@
-# PerotBot
+# PerotBot Stemfie
 Micro:bit robot
 
 Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilitat Stemfie, realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
@@ -40,6 +40,9 @@ Suport Sensor Llum LDR (Light Sensor) |![](Imatges/LDR.png) | [LDR L](STL/LDRSen
 Escaire |![](Imatges/1L.png) | [Escaire](STL/1L.stl)
 Tensor 4 |![](Imatges/Brace4.png) | [Tensor 4](STL/BraceSTRERRBU04x01x00.25-SPN-BRC-0003.stl)
 
+## QR
+
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FPerotBot-Stemfie&s=6&e=m"/>
 
 ## Llicència
 
